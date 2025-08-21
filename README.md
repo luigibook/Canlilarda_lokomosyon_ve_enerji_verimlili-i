@@ -1,2 +1,2 @@
-# Canlilarda_lokomosyon_ve_enerji_verimlili-i
+# Canlilarda_lokomosyon_ve_enerji_verimliligi
 Canlılarin hareket ederken enerji tüketimi karşılaştırması ve kleiber prensibi
